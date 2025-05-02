@@ -2,6 +2,10 @@
 
 A modern, responsive e-commerce application built with React, featuring product listings, cart functionality, and smooth navigation.
 
+### Live Demo 
+   
+    https://raja-arizon-eshop-ui.netlify.app/
+
 ## Features
 
 - Browse products from FakeStoreAPI
